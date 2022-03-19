@@ -7,12 +7,12 @@
 
 <p align="center">
   <a>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=quinamilena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=paulohenrique22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   </a>
   &nbsp
   &nbsp
   <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quinamilena&layout=compact&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenrique22&layout=compact&theme=dracula" />
   </a>
 </p>
 
